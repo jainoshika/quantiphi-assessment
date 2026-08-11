@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Wireless Noise-Canceling Headphones", "category": "Electronics", "price": 299.99, "rating": 5, "image": "https://via.placeholder.com/150?text=Headphones" },
+    { "id": 2, "name": "Mechanical Gaming Keyboard", "category": "Electronics", "price": 129.50, "rating": 4, "image": "https://via.placeholder.com/150?text=Keyboard" },
+    { "id": 3, "name": "Men's Cotton V-Neck T-Shirt", "category": "Apparel", "price": 19.99, "rating": 3, "image": "https://via.placeholder.com/150?text=T-Shirt" },
+    { "id": 4, "name": "Women's Denim Jacket", "category": "Apparel", "price": 59.90, "rating": 4, "image": "https://via.placeholder.com/150?text=Jacket" },
+    { "id": 5, "name": "Running Shoes (Breathable)", "category": "Footwear", "price": 89.99, "rating": 4, "image": "https://via.placeholder.com/150?text=Running+Shoes" },
+    { "id": 6, "name": "Leather Dress Oxfords", "category": "Footwear", "price": 145.00, "rating": 5, "image": "https://via.placeholder.com/150?text=Oxfords" },
+    { "id": 7, "name": "Ultra HD 4K Monitor", "category": "Electronics", "price": 349.00, "rating": 2, "image": "https://via.placeholder.com/150?text=Monitor" },
+    { "id": 8, "name": "Basic Crew Socks (6-Pack)", "category": "Apparel", "price": 12.50, "rating": 1, "image": "https://via.placeholder.com/150?text=Socks" },
+    { "id": 9, "name": "Trail Hiking Boots", "category": "Footwear", "price": 110.00, "rating": 3, "image": "https://via.placeholder.com/150?text=Hiking+Boots" },
+    { "id": 10, "name": "Smartwatch with Heart Rate Monitor", "category": "Electronics", "price": 199.99, "rating": 4, "image": "https://via.placeholder.com/150?text=Smartwatch" }
+  ]
